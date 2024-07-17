@@ -17,5 +17,7 @@ nodemon index.js
 # Mysql Database
 
 username = root
+
 password = root
+
 databasename = course_training
